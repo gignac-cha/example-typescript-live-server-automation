@@ -2,7 +2,6 @@
   "name": "example-typescript-live-server-automation",
   "version": "1.0.0",
   "description": "Automate static web pages written in TypeScript, building with Parcel and GitHub Actions.",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
